@@ -1,4 +1,4 @@
-print('Olá Mundo!')
+#Crie um script Python que escreva "Olá, Mundo!" na tela
 
-print(7+5)
+print("Olá, Mundo!")
 
