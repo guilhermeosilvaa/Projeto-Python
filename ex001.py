@@ -1,13 +1,5 @@
-#Versão 1.0.0
-nome = 'Guilherme'
-idade = 28
-peso = 58.5
-
-print(nome, idade, peso)
-
-#Versão 1.0.1
+#Faça um script que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas
 nome = input('Digite seu nome: ')
-idade = input('Digite sua idade: ')
-peso = input('Digite seu peso: ')
 
-print(nome, idade, peso) 
+
+print("È um prazer te conhecer, {}!".format(nome))
