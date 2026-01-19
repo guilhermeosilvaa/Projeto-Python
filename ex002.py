@@ -6,4 +6,3 @@ nome = input('Qual é seu nome: ') #input siginifica para digitar um valor strin
 
 print('Ola Boas-Vindas', nome, 'Prazer em te conhecer!')
 
-#Crie um script Python que leia o dia
